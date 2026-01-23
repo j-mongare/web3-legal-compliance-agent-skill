@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://lawvable.com/skills">
-    <img src="https://img.shields.io/badge/Skills-9%20Available-4F46E5?style=flat-square" alt="Skills Available" />
+    <img src="https://img.shields.io/badge/Skills-24%20Available-4F46E5?style=flat-square" alt="Skills Available" />
   </a>
   <a href="https://github.com/lawvable/awesome-legal-skills/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square" alt="License" />
@@ -73,43 +73,17 @@ Skills use a progressive loading architecture for efficiency:
 
 This design allows multiple skills to remain available without consuming your agent's context window.
 
-## Available Skills
+## Browse Skills
 
-### Commercial Law
-
-| Skill | Author | Description |
-|-------|--------|-------------|
-| **[nda-review-en](./skills/nda-review-en-jamie-tso)** | [Jamie Tso](https://github.com/jamietso/nda-review-skill) | Review incoming unilateral commercial NDAs |
-
-### Corporate Law
-
-| Skill | Author | Description |
-|-------|--------|-------------|
-| **[whistleblower-policy-fr](./skills/whistleblower-policy-fr-malik-taiar)** | [Malik Taiar](https://www.linkedin.com/in/malik-taiar/) | Assess or draft compliant whistleblower policies under EU Directive and Sapin II law | 
-
-### Privacy Law
-
-| Skill | Author | Description |
-|-------|--------|-------------|
-| **[privacy-policy-fr](./skills/privacy-policy-fr-malik-taiar)** | [Malik Taiar](https://www.linkedin.com/in/malik-taiar/) | Draft GDPR-compliant privacy policies following CNIL recommendations |
-| **[cookie-policy-fr](./skills/cookie-policy-fr-malik-taiar)** | [Malik Taiar](https://www.linkedin.com/in/malik-taiar/) | Create cookie policies compliant with GDPR and ePrivacy directive |
-
-### Document Processing
-
-| Skill | Author | Description |
-|-------|--------|-------------|
-| **[docx](./skills/docx-processing-en-anthropic)** |  [Anthropic](https://github.com/anthropics/skills) | Create, edit, and analyze Word documents with tracked changes, comments, and formatting preservation |
-| **[pdf](./skills/pdf-processing-en-anthropic)** | [Anthropic](https://github.com/anthropics/skills) | Extract text and tables, create new PDFs, merge/split documents, and handle form fields |
-| **[xlsx](./skills/xlsx-processing-en-anthropic)** | [Anthropic](https://github.com/anthropics/skills) | Work with spreadsheets including formulas, formatting, data analysis, and visualization |
-| **[pptx](./skills/pptx-processing-en-anthropic)** | [Anthropic](https://github.com/anthropics/skills) | Build and modify presentations with layouts, templates, charts, and speaker notes |
-
-### Utility
-
-Tools for building and extending skills.
-
-| Skill | Author | Description |
-|-------|--------|-------------|
-| **[skill-creator](./skills/skill-creator-en-anthropic)** | [Anthropic](https://github.com/anthropics/skills) | Interactive guide for creating new skills with structured Q&A |
+| Folder | Description | Skills |
+|--------|-------------|--------|
+| [🇫🇷 France](./🇫🇷/) | Droit du travail, droit commercial, RGPD | 7 |
+| [🇺🇸 United States](./🇺🇸/) | Statutory interpretation | 1 |
+| [🌐 International](./🌐/) | Contract review, due diligence, negotiation | 4 |
+| [🛠️ Utilities](./🛠️/) | Document processing, skill authoring | 12 |
+| [🇪🇺 European Union](./🇪🇺/) | *Looking for contributors* | 0 |
+| [🇬🇧 United Kingdom](./🇬🇧/) | *Looking for contributors* | 0 |
+| [🇩🇪 Germany](./🇩🇪/) | *Looking for contributors* | 0 |
 
 ## Getting Started
 
