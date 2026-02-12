@@ -3,13 +3,13 @@
 </picture>
 
 <p align="center">
-  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a target="_blank" href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
   <a href="#contributing"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
   <a href="#license"><img src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg" alt="License" /></a>
   <a href="#browse"><img src="https://img.shields.io/badge/Skills-37-yellow.svg" alt="License" /></a>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/company/lawvable/"><img src="https://img.shields.io/badge/Follow on LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn" /></a>
+  <a target="_blank" href="https://www.linkedin.com/company/lawvable/"><img src="https://img.shields.io/badge/Follow on LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn" /></a>
 </p>
 
 ## What are Agent Skills?
@@ -26,19 +26,23 @@ Agent Skills are portable instructions that teach AI agents how to perform speci
 <div align="center">
   <br>
   <p>
-    <a href="https://claude.com/product/overview"><img src="assets/claude-web.svg" alt="Claude.ai" height="40"></a>
+    <a target="_blank" href="https://claude.com/product/overview"><img src="assets/claude-web.svg" alt="Claude.ai" height="40"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://claude.com/product/cowork"><img src="assets/claude-cowork.svg" alt="Claude Cowork" height="40"></a>
+    <a target="_blank" href="https://claude.com/product/cowork"><img src="assets/claude-cowork.svg" alt="Claude Cowork" height="40"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://claude.com/product/claude-code"><img src="assets/claude-code.svg" alt="Claude Code" height="40"></a>
+    <a target="_blank" href="https://claude.com/product/claude-code"><img src="assets/claude-code.svg" alt="Claude Code" height="40"></a>
   </p>
   <br>
   <p>
-    <a href="https://openai.com/codex/"><img src="assets/openai-codex.svg" alt="OpenAI Codex" height="40"></a>
+    <a target="_blank" href="https://openai.com/codex/"><img src="assets/openai-codex.svg" alt="OpenAI Codex" height="40"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://geminicli.com/"><img src="assets/gemini-cli.svg" alt="Gemini CLI" height="40"></a>
+  </p>
+  <br>
+  <p>
+    <a target="_blank" href="https://manus.im/features/agent-skills"><img src="assets/manus.svg" alt="Manus" height="40"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://mistral.ai/products/vibe"><img src="assets/mistral-vibe.svg" alt="Mistral Vibe" height="40"></a>
+    <a target="_blank" href="https://mistral.ai/products/vibe"><img src="assets/mistral-vibe.svg" alt="Mistral Vibe" height="40"></a>
   </p>
 </div>
 
@@ -110,7 +114,6 @@ Agent Skills are portable instructions that teach AI agents how to perform speci
 
 <br>
 <div align="center"><img src="assets/header-domain-skills.svg" alt="DOMAIN SKILLS" height="60"></div>
-<br>
 
 ### Commercial Law
 
@@ -199,7 +202,6 @@ _Prepare structured briefings for meetings with legal relevance and track result
 
 <br>
 <div align="center"><img src="assets/header-utility-skills.svg" alt="UTILITY SKILLS" height="60"></div>
-<br>
 
 ### Tooling
 
