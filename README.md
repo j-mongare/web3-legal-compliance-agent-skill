@@ -1,25 +1,15 @@
 <picture>
-  <img src="assets/hero-animated.svg" alt="AI Agent Skills for Legal Professionals" width="100%">
+  <a href="https://lawvable.com/en"><img src="assets/hero-animated.svg" alt="AI Agent Skills for Legal Professionals" width="100%"></a>
 </picture>
 
 <p align="center">
-  <a href="https://awesome.re">
-    <img src="https://awesome.re/badge.svg" alt="Awesome" />
-  </a>
-  <a href="#contributing">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" />
-  </a>
-  <a href="#license">
-    <img src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg" alt="License" />
-  </a>
-  <a href="#browse">
-    <img src="https://img.shields.io/badge/Skills-37-yellow.svg" alt="License" />
-  </a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="#contributing"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
+  <a href="#license"><img src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg" alt="License" /></a>
+  <a href="#browse"><img src="https://img.shields.io/badge/Skills-37-yellow.svg" alt="License" /></a>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/company/lawvable/">
-    <img src="https://img.shields.io/badge/Follow on LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/company/lawvable/"><img src="https://img.shields.io/badge/Follow on LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn" /></a>
 </p>
 
 ## What are Agent Skills?
@@ -30,40 +20,27 @@ Agent Skills are portable instructions that teach AI agents how to perform speci
 
 ## Get Started
 
-> [!NOTE]  
-> **Write once, use everywhere** — Skills are an emerging standard for AI agents, with adoption growing across the industry.
+> [!IMPORTANT]
+> **Write once, use everywhere** — Skills are an emerging standard for AI agents, with adoption growing across the industry. Use them with your favorite tool.
 
 <div align="center">
   <br>
   <p>
-    <a href="https://claude.com/product/overview">
-      <img src="assets/claude-web.svg" alt="Claude.ai" height="40">
-    </a>
+    <a href="https://claude.com/product/overview"><img src="assets/claude-web.svg" alt="Claude.ai" height="40"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://claude.com/product/cowork">
-      <img src="assets/claude-cowork.svg" alt="Claude Cowork" height="40">
-    </a>
+    <a href="https://claude.com/product/cowork"><img src="assets/claude-cowork.svg" alt="Claude Cowork" height="40"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://claude.com/product/claude-code">
-      <img src="assets/claude-code.svg" alt="Claude Code" height="40">
-    </a>
+    <a href="https://claude.com/product/claude-code"><img src="assets/claude-code.svg" alt="Claude Code" height="40"></a>
   </p>
   <br>
   <p>
-    <a href="https://openai.com/codex/">
-      <img src="assets/openai-codex.svg" alt="OpenAI Codex" height="40">
-    </a>
+    <a href="https://openai.com/codex/"><img src="assets/openai-codex.svg" alt="OpenAI Codex" height="40"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://geminicli.com/">
-      <img src="assets/gemini-cli.svg" alt="Gemini CLI" height="40">
-    </a>
+    <a href="https://geminicli.com/"><img src="assets/gemini-cli.svg" alt="Gemini CLI" height="40"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://mistral.ai/products/vibe">
-      <img src="assets/mistral-vibe.svg" alt="Mistral Vibe" height="40">
-    </a>
+    <a href="https://mistral.ai/products/vibe"><img src="assets/mistral-vibe.svg" alt="Mistral Vibe" height="40"></a>
   </p>
 </div>
-
 
 ## Browse
 
@@ -141,87 +118,87 @@ Agent Skills are portable instructions that teach AI agents how to perform speci
 
 ### Commercial Law
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/nda-review-jamie-tso"><img src="assets/badge-nda-review-jamie-tso.svg" alt="Non-Disclosure Agreement by Jamie Tso"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/nda-review-jamie-tso"><img src="assets/badge-nda-review-jamie-tso.svg" alt="Non-Disclosure Agreement by Jamie Tso"></a>  
 _Guide to review incoming one-way (unilateral) commercial NDAs in a jurisdiction-agnostic way, from either a Recipient or Discloser perspective (user-selected), producing a clause-by-clause issue log with preferred redlines, fallbacks, rationales, owners, and deadlines._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/tech-contract-negotiation-patrick-munro"><img src="assets/badge-tech-contract-negotiation-patrick-munro.svg" alt="Tech Contract Negotiation by Patrick Munro"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/tech-contract-negotiation-patrick-munro"><img src="assets/badge-tech-contract-negotiation-patrick-munro.svg" alt="Tech Contract Negotiation by Patrick Munro"></a>  
 _Guide to negotiating technology services agreements, professional services contracts, and commercial B2B transactions. Provides three-position frameworks (provider-favorable, balanced, client-favorable), deal-size tactics, objection handling templates, and concession roadmaps._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/assignation-refere-recouvrement-creance-selim-brihi"><img src="assets/badge-assignation-refere-recouvrement-creance-selim-brihi.svg" alt="Emergency Court Order (Unpaid Invoices) by Sélim Brihi"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/assignation-refere-recouvrement-creance-selim-brihi"><img src="assets/badge-assignation-refere-recouvrement-creance-selim-brihi.svg" alt="Emergency Court Order (Unpaid Invoices) by Sélim Brihi"></a>  
 _Guide for drafting emergency court filings (assignation en référé) before the Commercial Court to recover unpaid commercial debts. Use when a creditor needs to obtain a fast-track court order for payment of undisputed invoices._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/contract-review-anthropic"><img src="assets/badge-contract-review-anthropic.svg" alt="Contract Review by Anthropic"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/contract-review-anthropic"><img src="assets/badge-contract-review-anthropic.svg" alt="Contract Review by Anthropic"></a>  
 _Review contracts against your organization's negotiation playbook, flagging deviations and generating redline suggestions. Use when reviewing vendor contracts, customer agreements, or any commercial agreement where you need clause-by-clause analysis against standard positions._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/nda-triage-anthropic"><img src="assets/badge-nda-triage-anthropic.svg" alt="NDA Triage by Anthropic"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/nda-triage-anthropic"><img src="assets/badge-nda-triage-anthropic.svg" alt="NDA Triage by Anthropic"></a>  
 _Screen incoming NDAs and classify them as GREEN (standard), YELLOW (needs review), or RED (significant issues). Use when a new NDA comes in from sales or business development, when assessing NDA risk level, or when deciding whether an NDA needs full counsel review._
 
 <div align="center"><img src="assets/entry-separator-light-animated.svg" alt=""></div>
 
 ### Privacy Law
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/gdpr-breach-sentinel-oliver-schmidt-prietz"><img src="assets/badge-gdpr-breach-sentinel-oliver-schmidt-prietz.svg" alt="GDPR Breach by Oliver Schmidt-Prietz"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/gdpr-breach-sentinel-oliver-schmidt-prietz"><img src="assets/badge-gdpr-breach-sentinel-oliver-schmidt-prietz.svg" alt="GDPR Breach by Oliver Schmidt-Prietz"></a>  
 _Incident response and legal compliance guidance for data breaches under GDPR Articles 33 & 34. Covers breach risk assessment using ENISA severity methodology, Controller vs Processor obligations, 72-hour notification clock management, EDPB case matching, and cross-border Lead SA determination._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/dpia-sentinel-oliver-schmidt-prietz"><img src="assets/badge-dpia-sentinel-oliver-schmidt-prietz.svg" alt="DPIA Sentinel by Oliver Schmidt-Prietz"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/dpia-sentinel-oliver-schmidt-prietz"><img src="assets/badge-dpia-sentinel-oliver-schmidt-prietz.svg" alt="DPIA Sentinel by Oliver Schmidt-Prietz"></a>  
 _GDPR Data Protection Impact Assessment (DPIA) guidance under Article 35 GDPR, EDPB Guidelines WP 248 rev.01, and national SA blacklists/whitelists. Covers threshold assessment, multi-jurisdictional blacklist checks, 5x5 risk scoring, necessity/proportionality analysis, and mitigation mapping._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/gdpr-privacy-notice-eu-oliver-schmidt-prietz"><img src="assets/badge-gdpr-privacy-notice-eu-oliver-schmidt-prietz.svg" alt="Privacy Notice by Oliver Schmidt-Prietz"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/gdpr-privacy-notice-eu-oliver-schmidt-prietz"><img src="assets/badge-gdpr-privacy-notice-eu-oliver-schmidt-prietz.svg" alt="Privacy Notice by Oliver Schmidt-Prietz"></a>  
 _Draft GDPR-compliant privacy notices as .docx for any EU/EEA jurisdiction and audience. Supports five notice types (Website/App, Applicant, Employee, Business Partner, B2C Customer) across DE, FR, AT, IT, ES, NL, BE, IE, and UK GDPR._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/politique-cookies-malik-taiar"><img src="assets/badge-politique-cookies-malik-taiar.svg" alt="Cookie Policy by Malik Taiar"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/politique-cookies-malik-taiar"><img src="assets/badge-politique-cookies-malik-taiar.svg" alt="Cookie Policy by Malik Taiar"></a>  
 _Guide for drafting cookie policies compliant with GDPR and the ePrivacy Directive. Includes CNIL 2020 recommendations, a reference template, and best practices._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/politique-confidentialite-malik-taiar"><img src="assets/badge-politique-confidentialite-malik-taiar.svg" alt="Privacy Policy by Malik Taiar"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/politique-confidentialite-malik-taiar"><img src="assets/badge-politique-confidentialite-malik-taiar.svg" alt="Privacy Policy by Malik Taiar"></a>  
 _Guide for drafting privacy policies compliant with GDPR. Includes CNIL 2020 recommendations, a reference template, and best practices._
 
 <div align="center"><img src="assets/entry-separator-light-animated.svg" alt=""></div>
 
 ### Compliance
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/vendor-due-diligence-patrick-munro"><img src="assets/badge-vendor-due-diligence-patrick-munro.svg" alt="Vendor Due Diligence by Patrick Munro"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/vendor-due-diligence-patrick-munro"><img src="assets/badge-vendor-due-diligence-patrick-munro.svg" alt="Vendor Due Diligence by Patrick Munro"></a>  
 _Framework for assessing IT service providers, technology vendors, and third-party partners. Creates structured risk assessments across financial, operational, compliance, security, and reputational dimensions with regulatory checklists (GDPR, DORA, NIS2, SOX)._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/politique-lanceur-alerte-malik-taiar"><img src="assets/badge-politique-lanceur-alerte-malik-taiar.svg" alt="Whistleblower Policy by Malik Taiar"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/politique-lanceur-alerte-malik-taiar"><img src="assets/badge-politique-lanceur-alerte-malik-taiar.svg" alt="Whistleblower Policy by Malik Taiar"></a>  
 _Guide for auditing an existing whistleblower system or drafting a compliant reporting policy. Covers EU Directive 2019/1937, the amended Sapin II law (Waserman 2022), Decree 2022-1284, CNIL guidelines, and duty of vigilance._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/compliance-anthropic"><img src="assets/badge-compliance-anthropic.svg" alt="Compliance by Anthropic"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/compliance-anthropic"><img src="assets/badge-compliance-anthropic.svg" alt="Compliance by Anthropic"></a>  
 _Navigate privacy regulations (GDPR, CCPA), review DPAs, and handle data subject requests. Use when reviewing data processing agreements, responding to data subject access or deletion requests, or evaluating privacy compliance._
 
 <div align="center"><img src="assets/entry-separator-light-animated.svg" alt=""></div>
 
 ### Employment Law
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/notification-licenciement-selim-brihi"><img src="assets/badge-notification-licenciement-selim-brihi.svg" alt="Dismissal Notification by Sélim Brihi"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/notification-licenciement-selim-brihi"><img src="assets/badge-notification-licenciement-selim-brihi.svg" alt="Dismissal Notification by Sélim Brihi"></a>  
 _Guide for drafting dismissal notifications compliant with French labor law. Covers serious misconduct, gross misconduct, and personal grounds with all mandatory elements under French law._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/requete-cph-licenciement-faute-grave-selim-brihi"><img src="assets/badge-requete-cph-licenciement-faute-grave-selim-brihi.svg" alt="Unfair Dismissal Claim (Gross Misconduct) by Sélim Brihi"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/requete-cph-licenciement-faute-grave-selim-brihi"><img src="assets/badge-requete-cph-licenciement-faute-grave-selim-brihi.svg" alt="Unfair Dismissal Claim (Gross Misconduct) by Sélim Brihi"></a>  
 _Guide for drafting petitions to the French Labor Court (Conseil de prud'hommes) to contest a dismissal for gross misconduct and request reclassification as unfair dismissal._
 
 <div align="center"><img src="assets/entry-separator-light-animated.svg" alt=""></div>
 
 ### Corporate Law
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/assignation-refere-communication-associe-selim-brihi"><img src="assets/badge-assignation-refere-communication-associe-selim-brihi.svg" alt="Court Order (Shareholder Access to Records) by Sélim Brihi"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/assignation-refere-communication-associe-selim-brihi"><img src="assets/badge-assignation-refere-communication-associe-selim-brihi.svg" alt="Court Order (Shareholder Access to Records) by Sélim Brihi"></a>  
 _Guide for drafting emergency court filings (assignation en référé) to force disclosure of corporate documents to a shareholder under Article L. 238-1 of the French Commercial Code._
 
 <div align="center"><img src="assets/entry-separator-light-animated.svg" alt=""></div>
 
 ### Legal Methodology
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/statute-analysis-rafal-fryc"><img src="assets/badge-statute-analysis-rafal-fryc.svg" alt="Statutory Interpretation by Rafał Stanisław Fryc"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/statute-analysis-rafal-fryc"><img src="assets/badge-statute-analysis-rafal-fryc.svg" alt="Statutory Interpretation by Rafał Stanisław Fryc"></a>  
 _Guide for reading, interpreting, and applying statutes, regulations, and rules in legal and compliance contexts. Covers statutory interpretation methods, canons of construction, and legislative intent._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/legal-simulation-patrick-munro"><img src="assets/badge-legal-simulation-patrick-munro.svg" alt="Legal Simulation by Patrick Munro"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/legal-simulation-patrick-munro"><img src="assets/badge-legal-simulation-patrick-munro.svg" alt="Legal Simulation by Patrick Munro"></a>  
 _Framework for demonstrating AI capabilities in legal contexts. Provides detailed personas across tenant law, business contracts, startup disputes, employment claims, and consumer protection with progressive complexity scenarios._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/canned-responses-anthropic"><img src="assets/badge-canned-responses-anthropic.svg" alt="Canned Responses by Anthropic"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/canned-responses-anthropic"><img src="assets/badge-canned-responses-anthropic.svg" alt="Canned Responses by Anthropic"></a>  
 _Generate templated responses for common legal inquiries and identify when situations require individualized attention. Covers data subject requests, vendor inquiries, NDA requests, and discovery holds._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/legal-risk-assessment-anthropic"><img src="assets/badge-legal-risk-assessment-anthropic.svg" alt="Legal Risk Assessment by Anthropic"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/legal-risk-assessment-anthropic"><img src="assets/badge-legal-risk-assessment-anthropic.svg" alt="Legal Risk Assessment by Anthropic"></a>  
 _Assess and classify legal risks using a severity-by-likelihood framework with escalation criteria. Use when evaluating contract risk, assessing deal exposure, or classifying issues by severity._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/meeting-briefing-anthropic"><img src="assets/badge-meeting-briefing-anthropic.svg" alt="Meeting Briefing by Anthropic"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/meeting-briefing-anthropic"><img src="assets/badge-meeting-briefing-anthropic.svg" alt="Meeting Briefing by Anthropic"></a>  
 _Prepare structured briefings for meetings with legal relevance and track resulting action items. Use when preparing for contract negotiations, board meetings, or compliance reviews._
 
 <br>
@@ -234,51 +211,51 @@ _Prepare structured briefings for meetings with legal relevance and track result
 
 ### Tooling
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/tabular-review-lawvable"><img src="assets/badge-tabular-review-lawvable.svg" alt="Tabular Review by Lawvable"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/tabular-review-lawvable"><img src="assets/badge-tabular-review-lawvable.svg" alt="Tabular Review by Lawvable"></a>  
 _Analyze multiple documents (PDF, DOCX) against user-defined columns and produce a structured Excel output with citations. Compare clauses or provisions across contracts._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/vscode-extension-builder-lawvable"><img src="assets/badge-vscode-extension-builder-lawvable.svg" alt="VS Code Extension by Lawvable"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/vscode-extension-builder-lawvable"><img src="assets/badge-vscode-extension-builder-lawvable.svg" alt="VS Code Extension by Lawvable"></a>  
 _Build VS Code extensions from scratch or convert existing JS/React/Vue apps. Supports commands, webviews, custom editors, tree views, and AI agent integration._
 
 <div align="center"><img src="assets/entry-separator-light-animated.svg" alt=""></div>
 
 ### Microsoft Office
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/docx-processing-lawvable"><img src="assets/badge-docx-processing-lawvable.svg" alt="Word by Lawvable"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/docx-processing-lawvable"><img src="assets/badge-docx-processing-lawvable.svg" alt="Word by Lawvable"></a>  
 _Edit Word documents with live preview and track changes via SuperDoc VS Code extension. Use when editing DOCX files, making tracked changes, or redlining contracts._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/outlook-emails-lawvable"><img src="assets/badge-outlook-emails-lawvable.svg" alt="Outlook by Lawvable"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/outlook-emails-lawvable"><img src="assets/badge-outlook-emails-lawvable.svg" alt="Outlook by Lawvable"></a>  
 _Read, search, and download emails and attachments from Microsoft Outlook via OAuth2._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/docx-processing-superdoc"><img src="assets/badge-docx-processing-superdoc.svg" alt="Word by Superdoc"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/docx-processing-superdoc"><img src="assets/badge-docx-processing-superdoc.svg" alt="Word by Superdoc"></a>  
 _Search, replace, and read text in Word documents from the command line._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/docx-processing-anthropic"><img src="assets/badge-docx-processing-anthropic.svg" alt="Word by Anthropic"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/docx-processing-anthropic"><img src="assets/badge-docx-processing-anthropic.svg" alt="Word by Anthropic"></a>  
 _Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/xlsx-processing-anthropic"><img src="assets/badge-xlsx-processing-anthropic.svg" alt="Excel by Anthropic"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/xlsx-processing-anthropic"><img src="assets/badge-xlsx-processing-anthropic.svg" alt="Excel by Anthropic"></a>  
 _Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/pptx-processing-anthropic"><img src="assets/badge-pptx-processing-anthropic.svg" alt="PowerPoint by Anthropic"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/pptx-processing-anthropic"><img src="assets/badge-pptx-processing-anthropic.svg" alt="PowerPoint by Anthropic"></a>  
 _Comprehensive presentation creation, editing, and analysis with support for layouts, comments, and speaker notes._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/docx-processing-openai"><img src="assets/badge-docx-processing-openai.svg" alt="Word by OpenAI"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/docx-processing-openai"><img src="assets/badge-docx-processing-openai.svg" alt="Word by OpenAI"></a>  
 _Comprehensive document reading and creation with visual quality control for Word documents._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/xlsx-processing-openai"><img src="assets/badge-xlsx-processing-openai.svg" alt="Excel by OpenAI"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/xlsx-processing-openai"><img src="assets/badge-xlsx-processing-openai.svg" alt="Excel by OpenAI"></a>  
 _Comprehensive spreadsheet reading, creation, editing, and analysis with visual quality control._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/xlsx-processing-manus"><img src="assets/badge-xlsx-processing-manus.svg" alt="Excel by Manus"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/xlsx-processing-manus"><img src="assets/badge-xlsx-processing-manus.svg" alt="Excel by Manus"></a>  
 _Professional Excel spreadsheet creation with a focus on aesthetics and data analysis._
 
 <div align="center"><img src="assets/entry-separator-light-animated.svg" alt=""></div>
 
 ### Adobe Acrobat
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/pdf-processing-anthropic"><img src="assets/badge-pdf-processing-anthropic.svg" alt="PDF by Anthropic"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/pdf-processing-anthropic"><img src="assets/badge-pdf-processing-anthropic.svg" alt="PDF by Anthropic"></a>  
 _Comprehensive PDF manipulation, including extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms._
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/pdf-processing-openai"><img src="assets/badge-pdf-processing-openai.svg" alt="PDF by OpenAI"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/pdf-processing-openai"><img src="assets/badge-pdf-processing-openai.svg" alt="PDF by OpenAI"></a>  
 _Comprehensive PDF reading and creation with visual quality control._
 
 <br>
@@ -289,19 +266,14 @@ _Comprehensive PDF reading and creation with visual quality control._
 </div>
 <br>
 
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/skill-optimizer-lawvable"><img src="assets/badge-skill-optimizer-lawvable.svg" alt="Self-Improvement by Lawvable"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/skill-optimizer-lawvable"><img src="assets/badge-skill-optimizer-lawvable.svg" alt="Self-Improvement by Lawvable"></a>  
 _Analyze a current work session and propose improvements to skills. Captures learnings automatically after working with a skill._
 
-
-
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/skill-creator-anthropic"><img src="assets/badge-skill-creator-anthropic.svg" alt="Self-Creation by Anthropic"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/skill-creator-anthropic"><img src="assets/badge-skill-creator-anthropic.svg" alt="Self-Creation by Anthropic"></a>  
 _Guide for creating effective skills that extend the model's capabilities with specialized knowledge, workflows, or tool integrations._
 
-
-
-<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/skill-creator-openai"><img src="assets/badge-skill-creator-openai.svg" alt="Self-Creation by OpenAI"></a>
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/skill-creator-openai"><img src="assets/badge-skill-creator-openai.svg" alt="Self-Creation by OpenAI"></a>  
 _Guide for creating effective skills that extend the model's capabilities with specialized knowledge, workflows, or tool integrations._
-
 
 ## Contributing
 
