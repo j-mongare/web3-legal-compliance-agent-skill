@@ -380,6 +380,16 @@
       },
       "license": "Apache-2.0",
       "source": "./skills/security-review-openai"
+    },
+    {
+      "name": "red-team-verifier-patrick-munro",
+      "description": "Adversarial verification for AI-generated legal content with systematic fact-checking, source validation, and quality control",
+      "version": "2026.02.17",
+      "author": {
+        "name": "Patrick Munro"
+      },
+      "license": "AGPL-3.0",
+      "source": "./skills/red-team-verifier-patrick-munro"
     }
   ]
 }

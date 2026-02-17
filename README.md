@@ -6,7 +6,7 @@
   <a target="_blank" href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
   <a href="#contributing"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
   <a href="#license"><img src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg" alt="License" /></a>
-  <a href="#browse"><img src="https://img.shields.io/badge/Skills-38-yellow.svg" alt="License" /></a>
+  <a href="#browse"><img src="https://img.shields.io/badge/Skills-39-yellow.svg" alt="License" /></a>
 </p>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/company/lawvable/"><img src="https://img.shields.io/badge/Follow on LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn" /></a>
@@ -175,6 +175,9 @@ _Guide for drafting emergency court filings (assignation en référé) to force 
 
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/statute-analysis-rafal-fryc"><img src="assets/badge-statute-analysis-rafal-fryc.svg" alt="Statutory Interpretation by Rafał Stanisław Fryc"></a>  
 _Guide for reading, interpreting, and applying statutes, regulations, and rules in legal and compliance contexts. Covers statutory interpretation methods, canons of construction, and legislative intent._
+
+<a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/red-team-verifier-patrick-munro"><img src="assets/badge-red-team-verifier-patrick-munro.svg" alt="Red Team Verifier by Patrick Munro"></a>  
+_Adversarial verification for AI-generated legal content with systematic fact-checking, source validation, and quality control. Provides structured verification reports with severity-categorized errors and distribution readiness assessment._
 
 <a href="https://github.com/lawvable/awesome-legal-skills/tree/main/skills/legal-simulation-patrick-munro"><img src="assets/badge-legal-simulation-patrick-munro.svg" alt="Legal Simulation by Patrick Munro"></a>  
 _Framework for demonstrating AI capabilities in legal contexts. Provides detailed personas across tenant law, business contracts, startup disputes, employment claims, and consumer protection with progressive complexity scenarios._
